@@ -16,7 +16,12 @@ When the project is deployed, it registers itself to the footer of a Liferay pag
 <script src='<PATH>/app.js?<HASH>'></script>
 ```
 
-To test the project, deploy it and add one of the following tags to a page "<hello-world/>", "<app-today />", "<app-shuffle />
+To test the project, deploy it and add one of the following tags to a page:
+```html
+<hello-world/>
+<app-today />
+<app-shuffle />
+```
 
 The code will pick the tags up and insert some html code into the tags.
 
