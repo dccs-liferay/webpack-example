@@ -1,0 +1,3 @@
+Bundle-Name: dccs-frontend-demo
+Bundle-Version: 1.0.0
+Web-ContextPath: /dccs-frontend-demo

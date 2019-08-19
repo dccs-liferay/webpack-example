@@ -1,0 +1,23 @@
+{
+    "presets": [
+        [
+            "@babel/preset-env",
+            {
+                "targets": {
+                    "browsers": [
+                        "last 2 versions",
+                        "ie >= 11"
+                    ]
+                },
+                "useBuiltIns": "entry",
+                "corejs": "3.1.4"
+            }
+        ]
+    ],
+    "plugins": [
+        "@babel/plugin-syntax-dynamic-import",
+        "@babel/plugin-transform-runtime",
+        "@babel/plugin-proposal-class-properties"
+    ],
+    "comments": false
+}
