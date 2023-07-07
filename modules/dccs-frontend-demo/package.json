@@ -44,7 +44,7 @@
         "postcss-loader": "^3.0.0",
         "prettier": "^1.18.2",
         "sass-loader": "^7.1.0",
-        "stylelint": "^10.1.0",
+        "stylelint": "^15.10.1",
         "stylelint-config-property-sort-order-smacss": "^5.0.0",
         "stylelint-declaration-use-variable": "^1.7.0",
         "stylelint-scss": "^3.9.1",
